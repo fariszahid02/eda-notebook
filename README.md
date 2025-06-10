@@ -1,0 +1,3 @@
+## eda-notebook
+
+This project explores a corrupted housing dataset through exploratory data analysis (EDA), outlier detection, and missing data imputation. The workflow includes identifying missing values, visualizing distributions, and detecting anomalies using both statistical (IQR) and algorithmic (Isolation Forest) methods. Missing data is handled using KNN and MICE imputation, followed by a comparison of feature distributions and predictive performance across the original and imputed datasets. The goal is to build a solid foundation for understanding data quality issues while evaluating the impact of preprocessing choices on regression outcomes.
